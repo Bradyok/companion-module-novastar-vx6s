@@ -1,0 +1,24 @@
+{
+  "name": "novastar-vx6s",
+  "version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [ "LED Processing" ],
+	"manufacturer": "NovaStar",
+	"product": "VX6S",
+	"shortname": "VX6S",
+	"description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitfocus/companion-module-novastar-vx6s.git"
+  },
+  "author": "Braden O'Keefe <brady@olympianled.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitfocus/companion-module-novastar-vx6s/issues"
+  },
+  "homepage": "https://github.com/bitfocus/companion-module-novastar-vx6s#readme"
+}
